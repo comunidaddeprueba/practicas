@@ -1,0 +1,23 @@
+commit 2bbdbfc6bd0a79f9515d5260c07fdcc8494a530f
+Author: Henry <hmorenosifontes♠@gmail.com>
+Date:   Sun Aug 29 21:23:52 2021 -0300
+
+    Solo pruebas de archivos
+
+commit ce0c477f481d7a58fee641a80f648d638922373a
+Author: Henry <hmorenosifontes♠@gmail.com>
+Date:   Sat Aug 28 22:58:13 2021 -0300
+
+    Cambiamos el index
+
+commit a6eea8209b66dc4ce8b2ad88fa35fc28675dc551
+Author: Henry <hmorenosifontes♠@gmail.com>
+Date:   Sat Aug 28 22:39:34 2021 -0300
+
+    commit inicial de apertura
+
+commit 530f7f55020d877d068d6f0b63439d6974ad2707
+Author: Henry_Moreno <hmorenosifontes@gmail.com>
+Date:   Sat Aug 28 21:56:50 2021 -0300
+
+    Initial commit
